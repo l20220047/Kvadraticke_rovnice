@@ -1,1 +1,1 @@
-# Kvadraticke_rovnice
+# Kvadraticke
